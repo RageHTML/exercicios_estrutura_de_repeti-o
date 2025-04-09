@@ -25,6 +25,8 @@
 ```
     numero = int(input(f"Usuário {x}, insira o número: ")) 
 ```
+##### saida console:
+![saida_console](/readme_images/console_out.png)
 #### Obtendo o triplo do número fornecido
 ```
     triplo = numero * 3
@@ -37,3 +39,4 @@
     if numero <= 0: 
         print("negativo")  
 ```
+
