@@ -39,4 +39,6 @@
     if numero <= 0: 
         print("negativo")  
 ```
+#### Execução final:
+[image_final](/readme_images/console_out02.png)
 
