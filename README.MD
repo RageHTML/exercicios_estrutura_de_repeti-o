@@ -40,5 +40,5 @@
         print("negativo")  
 ```
 #### Execução final:
-![image_final](/images/imagem_final)
+![image_final](/images/imagem_final.png)
 
