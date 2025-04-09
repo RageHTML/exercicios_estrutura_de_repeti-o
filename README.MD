@@ -5,8 +5,8 @@
 #### Dentro da pasta "estrutura_de_repetição" você vai encontrar 4 exercicios já respondidos,
 `1 - ex001.py`
 `2 - ex002.py`
-`2 - ex003.py`
-`3 - ex004.py`
+`3 - ex003.py`
+`4 - ex004.py`
 #### No console da sua IDLE digite `python ex001.py` para executar o arquivo
 ## Exercicios
 # 1 - Faça um programa que ler 10 números e retorna se o número é positivo ou negativo e seu triplo
